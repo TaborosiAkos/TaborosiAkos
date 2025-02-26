@@ -12,7 +12,7 @@
 - **Languages:** JavaScript, C#, Python  
 - **Frontend:** Vue.js  
 - **Backend:** Node.js, Prisma, MySQL  
-- **Other:** Home server setups, smart home automation, and some **alien-tier debugging**  
+- **Other:** **alien-tier debugging**  
 
 ---
 
