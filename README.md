@@ -40,5 +40,5 @@ If you're into coding, gaming, or debating the **best alien transformation**, fe
 ---
 
 <p align="center">
-   <img src="https://tenor.com/view/sleepy-cat-baby-cat-coffee-cofffee-cat-sleeping-cat-gif-6705917006211790480">
+    <img src="https://media.tenor.com/images/d6ac16e6768f55e9d06eb57e8e388db6/tenor.gif" alt="Sleepy Cat">
 </p>
