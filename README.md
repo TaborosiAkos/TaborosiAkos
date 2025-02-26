@@ -40,5 +40,5 @@ If you're into coding, gaming, or debating the **best alien transformation**, fe
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/ZlSxpkcyT0kAAAAC/ben10-omnitrix.gif" width="200">
+  <img src="[https://media.tenor.com/ZlSxpkcyT0kAAAAC/ben10-omnitrix.gif](https://tenor.com/h9xkLB8y3W0.gif)" width="200">
 </p>
