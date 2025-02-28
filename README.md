@@ -30,7 +30,7 @@ Because sometimes, **one form isn’t enough**—so why not **unlock them all**?
 ### 📈 My GitHub Stats  
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TaborosiAkos&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00FF00&fire=00FF00&sideNums=FFFFFF" alt="GitHub Streak">
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </p>
 
 ---
