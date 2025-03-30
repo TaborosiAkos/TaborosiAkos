@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there, I'm Ákos!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=400&lines=%F0%9F%91%BD+It's+Hero+Time!;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+Enthusiast;%F0%9F%8C%8D+Always+Learning!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=E75480&center=true&vCenter=true&width=400&lines=%F0%9F%91%BD+It's+Hero+Time!;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+Enthusiast;%F0%9F%8C%8D+Always+Learning!">
 </p>
 
 ---
