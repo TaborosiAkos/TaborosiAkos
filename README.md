@@ -19,7 +19,7 @@
 ### 🚀 What I'm Working On  
 - **A language-learning platform** to help people connect and improve their skills  
 - **Game projects** that range from simple mechanics to reality-breaking narratives
-- **Winning the 20v1
+- **Winning the 20v1**
 
 ---
 
