@@ -18,12 +18,14 @@
 
 ### 🚀 What I'm Working On  
 - **A language-learning platform** to help people connect and improve their skills  
-- **Game projects** that range from simple mechanics to reality-breaking narratives  
+- **Game projects** that range from simple mechanics to reality-breaking narratives
+- **Winning the 20v1
 
 ---
 
 ### 👽 Why Code?  
 Because sometimes, **one form isn’t enough**—so why not **unlock them all**?  
+And winning the 20v1 is minus aura
 
 ---
 
