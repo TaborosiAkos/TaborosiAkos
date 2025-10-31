@@ -1,45 +1,72 @@
 <!-- GitHub README - TaborosiAkos -->
 
-<h1 align="center">👋 Hey there, I'm Ákos!</h1>
+<style>
+  .glass {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+  }
+</style>
+
+<div class="glass">
+
+<h1 align="center">👋 Hi, I'm Ákos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=E75480&center=true&vCenter=true&width=400&lines=%F0%9F%91%BD+It's+Hero+Time!;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+Enthusiast;%F0%9F%8C%8D+Always+Learning!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;AI+Enthusiast;Building+useful+things;Always+learning,+never+stopping."/>
 </p>
 
 ---
 
-### 🛠️ My Tech Stack  
-- **Languages:** JavaScript, C#, Python  
-- **Frontend:** Vue.js  
-- **Backend:** Node.js, Prisma, MySQL  
-- **Other:** **alien-tier debugging**  
+### 🌍 About Me  
+I'm a developer who loves turning ideas into reality — whether it's platforms that connect people, narrative-driven games, or solving oddly specific problems at 2 AM.  
+Curiosity, creativity, and a bit of chaos drive my work.
 
 ---
 
-### 🚀 What I'm Working On  
-- **A language-learning platform** to help people connect and improve their skills  
-- **Game projects** that range from simple mechanics to reality-breaking narratives
-- **Winning the 20v1**
+### 🎮 Projects & Adventures  
+
+| Status | Project |
+|--------|---------|
+| ✅ Completed | **Language Learning Platform** – helping people connect through conversation and culture |
+| ✅ Completed | **Game Development Projects** – from simple mechanics to surreal narrative worlds |
+| 🏆 Ongoing | **Achievement Hunt** – collecting every GitHub achievement (almost there!) |
+| 🌀 Ongoing | <span title="Statistically unwinnable. Still trying. (20v1 – negative aura)">**A mildly unreasonable side quest**</span> |
+
+<sub><i>(Some challenges aren't about winning — just about collecting XP in persistence.)</i></sub>
+
 ---
 
-### 👽 Why Code?  
-- Beacuse winning the 20v1 is minus aura
-- To get a girlfriend like Peti
+### 🛠 Tech Stack
+
+**Languages:** JavaScript • C# • Python • C • <span title="I have seen things because of this language">Haskell</span>  
+**Frontend:** Vue.js  
+**Backend:** Node.js • Prisma • MySQL  
+**Superpower:** Making bugs disappear (or at least feel guilty)
+
 ---
 
-### 📈 My GitHub Stats  
+### 📊 GitHub Stats  
 <p align="center">
-  
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=TaborosiAkos&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=TaborosiAkos&show_icons=true&count_private=true&theme=tokyonight&border_radius=12"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=TaborosiAkos&theme=tokyonight&border_radius=12"/>
 </p>
 
 ---
 
-### 🟢 Hero Time! (How to Reach Me)  
-If you're into coding, gaming, or debating the **best alien transformation**, feel free to reach out!  
+### 📫 Let's Connect  
+Open to collaborations, game ideas, AI discussions, or arguing about the best alien transformation.  
 
 ---
 
 <p align="center">
    <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"/>
 </p>
+
+</div>
