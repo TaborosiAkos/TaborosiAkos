@@ -1,19 +1,5 @@
 <!-- GitHub README - TaborosiAkos -->
 
-<style>
-  .glass {
-    background: rgba(255, 255, 255, 0.08);
-    border-radius: 16px;
-    border: 1px solid rgba(255, 255, 255, 0.18);
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    padding: 20px;
-    max-width: 900px;
-    margin: auto;
-  }
-</style>
-
 <div class="glass">
 
 <h1 align="center">👋 Hi, I'm Ákos</h1>
@@ -55,7 +41,6 @@ Curiosity, creativity, and a bit of chaos drive my work.
 ### 📊 GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=TaborosiAkos&show_icons=true&count_private=true&theme=tokyonight&border_radius=12"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=TaborosiAkos&theme=tokyonight&border_radius=12"/>
 </p>
 
 ---
